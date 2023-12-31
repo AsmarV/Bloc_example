@@ -2,6 +2,10 @@
 
 A Flutter project showcasing the BLoC (Business Logic Component) pattern for state management. The application includes a splash screen, onboarding screen, login screen, and profile screen.
 
+## Test user:
+## username : kminchelle
+## password : 0lelplR
+
 ## Splash Screen
 
 The splash screen is the initial screen that appears when the app is launched. It provides a visually appealing introduction to the application and sets the stage for the user experience.
