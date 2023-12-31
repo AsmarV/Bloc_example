@@ -28,3 +28,30 @@ The profile screen displays user information Users.
 <img src="assets/screenshots/profile.png" alt="Profile Screen" width="200"/>
 
 ## Getting Started
+clone https://github.com/AsmarV/Bloc_example.git
+
+## Dependencies
+
+The project uses the following dependencies:
+
+- **equatable: ^2.0.5**
+    - A package to simplify equality comparisons for Dart classes.
+    - [equatable on pub.dev](https://pub.dev/packages/equatable)
+
+- **flutter_bloc: ^8.1.3**
+    - The official state management solution for Flutter applications, based on the BLoC (Business Logic Component) pattern.
+    - [flutter_bloc on pub.dev](https://pub.dev/packages/flutter_bloc)
+
+- **http: ^1.1.2**
+    - A package for making HTTP requests in Dart, used for network communication.
+    - [http on pub.dev](https://pub.dev/packages/http)
+
+- **get_storage: ^2.1.1**
+    - A simple key-value storage library for Flutter, used for storing data persistently.
+    - [get_storage on pub.dev](https://pub.dev/packages/get_storage)
+
+- **flutter_launcher_icons: ^0.13.1**
+    - A Flutter package for configuring custom app icons for both Android and iOS.
+    - [flutter_launcher_icons on pub.dev](https://pub.dev/packages/flutter_launcher_icons)
+
+Make sure to check the respective links to the documentation on pub.dev for each package for more information and usage instructions.
