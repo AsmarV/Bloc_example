@@ -3,8 +3,8 @@
 A Flutter project showcasing the BLoC (Business Logic Component) pattern for state management. The application includes a splash screen, onboarding screen, login screen, and profile screen.
 
 ## Test user:
-## username : kminchelle
-## password : 0lelplR
+* username : kminchelle
+* password : 0lelplR
 
 ## Splash Screen
 
